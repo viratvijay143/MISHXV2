@@ -38,7 +38,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/MISH0009/ShivXMusic && cd ShivXMusic`
+`git clone https://github.com/Rajputshivsingh65/MISHXV2 && cd MISHXV2`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
